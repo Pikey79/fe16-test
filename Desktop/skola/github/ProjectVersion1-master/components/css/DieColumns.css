@@ -1,0 +1,10 @@
+.dieColumn {
+  background-color: transparent;
+  height: 25%;
+  border: none;
+  margin-top: 40px;
+  text-align: center;
+  height:191px;
+  overflow: scroll;
+  margin-bottom:30px;
+}
